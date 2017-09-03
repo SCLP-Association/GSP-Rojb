@@ -1,0 +1,19 @@
+.mp-zero { padding:0 !important; margin:0 !important; }
+.aktivasi-table, .aktivasi-table td, .aktivasi-table th {
+   border: 1px solid #a3a3a3 !important;
+}
+.aktivasi-table td a {
+    text-decoration: underline;
+    color: blue;
+}
+
+/*
+.table-pkb {
+    font-size: 12px;
+    letter-spacing: -1px;
+    font-weight: bold;
+}
+*/
+
+.form-input .control-label { text-align: left; }
+.form-input input { text-transform: uppercase; }
